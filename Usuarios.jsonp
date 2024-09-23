@@ -1,0 +1,32 @@
+misDatos([
+    {
+        "folio":0001,
+        "descripcion":"teni converse estilo poblano, con textura uniforme y cosido a mano por Zeus",
+        "talla":"26",
+        "precio":"$2356",
+	},
+	 {
+        "folio":0002,
+        "descripcion":"teni converse estilo poblano, con textura uniforme y cosido a mano por Zeus",
+        "talla":"26",
+        "precio":"$12345",
+	},
+	 {
+        "folio":0003,
+        "descripcion":"teni converse estilo poblano, con textura uniforme y cosido a mano por Zeus",
+        "talla":"26",
+        "precio":"$6789",
+	},
+	 {
+        "folio":0004,
+        "descripcion":"teni converse estilo poblano, con textura uniforme y cosido a mano por Zeus",
+        "talla":"26",
+        "precio":"$34567",
+	},
+	 {
+        "folio":0005,
+        "descripcion":"teni converse estilo poblano, con textura uniforme y cosido a mano por Zeus",
+        "talla":"26",
+        "precio":"$23456",
+	},
+])
